@@ -1,0 +1,13 @@
+C:\Users\Gokul.Gopinath\Desktop\DESIGN PRINCIPLES\DESIGN PATTERNS CODE\FACTORY PATTERN\FactoryPatternMethod\bin\Debug\netcoreapp3.1\FactoryPatternMethod.exe
+C:\Users\Gokul.Gopinath\Desktop\DESIGN PRINCIPLES\DESIGN PATTERNS CODE\FACTORY PATTERN\FactoryPatternMethod\bin\Debug\netcoreapp3.1\FactoryPatternMethod.deps.json
+C:\Users\Gokul.Gopinath\Desktop\DESIGN PRINCIPLES\DESIGN PATTERNS CODE\FACTORY PATTERN\FactoryPatternMethod\bin\Debug\netcoreapp3.1\FactoryPatternMethod.runtimeconfig.json
+C:\Users\Gokul.Gopinath\Desktop\DESIGN PRINCIPLES\DESIGN PATTERNS CODE\FACTORY PATTERN\FactoryPatternMethod\bin\Debug\netcoreapp3.1\FactoryPatternMethod.runtimeconfig.dev.json
+C:\Users\Gokul.Gopinath\Desktop\DESIGN PRINCIPLES\DESIGN PATTERNS CODE\FACTORY PATTERN\FactoryPatternMethod\bin\Debug\netcoreapp3.1\FactoryPatternMethod.dll
+C:\Users\Gokul.Gopinath\Desktop\DESIGN PRINCIPLES\DESIGN PATTERNS CODE\FACTORY PATTERN\FactoryPatternMethod\bin\Debug\netcoreapp3.1\FactoryPatternMethod.pdb
+C:\Users\Gokul.Gopinath\Desktop\DESIGN PRINCIPLES\DESIGN PATTERNS CODE\FACTORY PATTERN\FactoryPatternMethod\obj\Debug\netcoreapp3.1\FactoryPatternMethod.csprojAssemblyReference.cache
+C:\Users\Gokul.Gopinath\Desktop\DESIGN PRINCIPLES\DESIGN PATTERNS CODE\FACTORY PATTERN\FactoryPatternMethod\obj\Debug\netcoreapp3.1\FactoryPatternMethod.AssemblyInfoInputs.cache
+C:\Users\Gokul.Gopinath\Desktop\DESIGN PRINCIPLES\DESIGN PATTERNS CODE\FACTORY PATTERN\FactoryPatternMethod\obj\Debug\netcoreapp3.1\FactoryPatternMethod.AssemblyInfo.cs
+C:\Users\Gokul.Gopinath\Desktop\DESIGN PRINCIPLES\DESIGN PATTERNS CODE\FACTORY PATTERN\FactoryPatternMethod\obj\Debug\netcoreapp3.1\FactoryPatternMethod.csproj.CoreCompileInputs.cache
+C:\Users\Gokul.Gopinath\Desktop\DESIGN PRINCIPLES\DESIGN PATTERNS CODE\FACTORY PATTERN\FactoryPatternMethod\obj\Debug\netcoreapp3.1\FactoryPatternMethod.dll
+C:\Users\Gokul.Gopinath\Desktop\DESIGN PRINCIPLES\DESIGN PATTERNS CODE\FACTORY PATTERN\FactoryPatternMethod\obj\Debug\netcoreapp3.1\FactoryPatternMethod.pdb
+C:\Users\Gokul.Gopinath\Desktop\DESIGN PRINCIPLES\DESIGN PATTERNS CODE\FACTORY PATTERN\FactoryPatternMethod\obj\Debug\netcoreapp3.1\FactoryPatternMethod.genruntimeconfig.cache
